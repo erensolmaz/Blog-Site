@@ -12,3 +12,6 @@ Page Low
 
 ![page3](https://user-images.githubusercontent.com/40443383/188713509-336dbdd8-f8b7-4da6-8f82-18ab459ebb89.png)
 
+Fullscreen
+
+![f](https://user-images.githubusercontent.com/40443383/188713796-e052ba2a-75cb-4312-8882-f7d08f038d5d.png)
